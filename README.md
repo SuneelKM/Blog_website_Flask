@@ -13,5 +13,6 @@
 <li> Allow Registered User to Add Comments to Blog Posts </li>
 <li> Deployed the Website on Heroku </li>
 </ul>
-<p>GitHub link: https://github.com/SuneelKM/Blog_website_Flask</p>
+
 <p>Heroku Link: https://suneelblogswithflask.herokuapp.com/</p>
+<p>GitHub link: https://github.com/SuneelKM/Blog_website_Flask</p>
