@@ -8,7 +8,7 @@
 <li> Login Registered Users </li>
 <li> Authenticating Users with Flask-Login </li>
 <li> Admin Be Able to POST a New Blog Post </li>
-<li> Admin Be Able to Edit Existing Blog Posts </li>
+<li> Admin Be Able to EDIT Existing Blog Posts </li>
 <li> Admin Be Able to DELETE Blog Posts </li>
 <li> Allow Registered User to Add Comments to Blog Posts </li>
 <li> Deployed the Website on Heroku </li>
